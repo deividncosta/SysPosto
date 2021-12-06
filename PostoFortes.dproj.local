@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/29 12:37:11.000.010,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/30 21:14:19.000.129,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 15:55:35.000.831,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 15:56:52.000.779,C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Source\Projetos\Teste Fortes\unMain.dfm</Transaction>
+    <Transaction>2021/12/06 15:56:52.000.779,C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Source\Projetos\Teste Fortes\unMain.pas</Transaction>
+    <Transaction>2021/12/06 15:56:57.000.716,C:\Users\davis\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Source\Projetos\Teste Fortes\PostoFortes.dproj</Transaction>
+    <Transaction>2021/12/06 16:25:22.000.710,=C:\Source\Projetos\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 16:25:32.000.214,C:\Source\Projetos\Teste Fortes\Unit1.pas=C:\Source\Projetos\Teste Fortes\UPosto.pas</Transaction>
+    <Transaction>2021/12/06 18:48:48.622,=C:\Source\Projetos\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 18:48:56.919,C:\Source\Projetos\Teste Fortes\unReport.dfm=C:\Source\Projetos\Teste Fortes\Unit1.dfm</Transaction>
+    <Transaction>2021/12/06 18:48:56.919,C:\Source\Projetos\Teste Fortes\unReport.pas=C:\Source\Projetos\Teste Fortes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
